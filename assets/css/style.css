@@ -1,0 +1,15 @@
+body {
+    background-color: lavender;
+  }
+  h1 {
+    color: indigo;
+    text-align:center;
+  }
+
+  #display_image{
+    width: 300px;
+    height: 169px;
+    border: 1px solid black;
+    background-position: center;
+    background-size: cover;
+ }
